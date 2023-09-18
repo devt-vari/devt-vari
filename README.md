@@ -32,11 +32,3 @@ As an Analyst at Amazon, I help organizations leverage data to solve complex pro
 <a href="http://www.github.com/devt-vari"><img src="https://github-readme-stats.vercel.app/api?username=devt-vari&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="devt-vari's GitHub stats" /></a>
 
 <a href="http://www.github.com/devt-vari"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devt-vari&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/devt-vari/Tiny-Sales-Shop-SQL-Study" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=devt-vari&repo=Tiny-Sales-Shop-SQL-Study&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/devt-vari/Indian-Premier-League-Sports-Analysis" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=devt-vari&repo=Indian-Premier-League-Sports-Analysis&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/devt-vari/Target-SQL-Case-Study" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=devt-vari&repo=Target-SQL-Case-Study&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/devt-vari/Netflix_Case_Study" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=devt-vari&repo=Netflix_Case_Study&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
